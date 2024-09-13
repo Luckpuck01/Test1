@@ -15,4 +15,8 @@ public class GroundCheck : MonoBehaviour
     {
         isGrounded = false;
     }
+
+    void testTest(){
+        int hello = 0;
+    }
 }
