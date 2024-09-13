@@ -19,4 +19,6 @@ public class GroundCheck : MonoBehaviour
     void testTest(){
         int hello = 0;
     }
+
+    //Jag heter Lucas
 }
