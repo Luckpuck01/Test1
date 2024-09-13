@@ -21,4 +21,5 @@ public class GroundCheck : MonoBehaviour
     }
 
     //Jag heter Lucas
+    // theo zibell whas here;
 }
